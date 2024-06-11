@@ -1,4 +1,4 @@
-# Logical View of the 4+1 Model for a Banking Application
+# Banking application logical view
 
 ```mermaid
 classDiagram
